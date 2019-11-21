@@ -1,0 +1,48 @@
+.pie {
+  text-align: center;
+  height: 50px;
+  width: 50px;
+}
+.centrar {
+  text-align: center;
+}
+
+.bigblue {
+  display: flex;
+  color: DodgerBlue;
+  padding: 20px;
+  font-family: Arial;
+  align-items: center;
+  text-align: center;
+  font-size: 8px;
+}
+.inicio {
+  display: flex;
+  justify-content: center;
+  font-size: 12px;
+} 
+.derecha {
+  font-size: 8px;
+  text-align: center;
+}
+
+.izquierda {
+  align-items: center;
+  font-size: 8px;
+}
+.tamaño1 {
+  width: 400px;
+  height: 200px;
+}
+
+.tamaño2 {
+  width: 150px;
+  height: 150px;
+}
+
+.dime {
+  align-items: center;
+  width: 300px;
+  height: 300px;
+  background: white;
+}
